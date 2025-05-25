@@ -42,7 +42,13 @@ cd Virtual_Air_Drawing
 - source venv/bin/activate  # Linux/macOS
 
 3. **Install dependencies**
--- pip install -r requirements.txt
+- pip install -r requirements.txt
 
 4. **Running the App**
--- python air_drawing.py
+- python air_drawing.py
+
+---
+---
+
+##📄 License
+# This project is open-source and available under the MIT License.
