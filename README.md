@@ -26,11 +26,23 @@ Users can draw in the air using their fingers, and the app tracks finger movemen
 
 ---
 
-## 📁 Project Structure
-Virtual_Air_Drawing/
-│
-├── air_drawing.py # Main application 
-├── requirements.txt # Required dependencies
-│
-├── utils/
-│ └── hand_detector.py # Hand tracking module using MediaPipe
+---
+
+## 🚀 Installation and Setup
+
+1. **Clone the repository**
+
+```bash
+git clone https://github.com/ShubhamMaurya7/Virtual_Air_Drawing.git
+cd Virtual_Air_Drawing
+```
+2. **Create a virtual environment**
+- python -m venv venv
+- venv\Scripts\activate #Windows
+- source venv/bin/activate  # Linux/macOS
+
+3. **Install dependencies**
+-- pip install -r requirements.txt
+
+4. **Running the App**
+-- python air_drawing.py
