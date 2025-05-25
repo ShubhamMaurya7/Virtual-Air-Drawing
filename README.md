@@ -13,7 +13,6 @@ Users can draw in the air using their fingers, and the app tracks finger movemen
 > - 🎨 Virtual color palette (gesture-based)
 > - 🧹 Gesture to clear canvas
 > - 💾 Save drawings as image files
-> - 🌐 Convert to web app using Streamlit
 
 ---
 
