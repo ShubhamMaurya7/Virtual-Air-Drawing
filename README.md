@@ -48,7 +48,6 @@ cd Virtual_Air_Drawing
 - python air_drawing.py
 
 ---
----
 
 ## 📄 License
 This project is open-source and available under the `MIT License.`
