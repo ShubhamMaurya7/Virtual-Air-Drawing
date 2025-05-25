@@ -27,4 +27,10 @@ Users can draw in the air using their fingers, and the app tracks finger movemen
 ---
 
 ## 📁 Project Structure
-
+Virtual_Air_Drawing/
+│
+├── air_drawing.py # Main application 
+├── requirements.txt # Required dependencies
+│
+├── utils/
+│ └── hand_detector.py # Hand tracking module using MediaPipe
