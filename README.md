@@ -26,8 +26,6 @@ Users can draw in the air using their fingers, and the app tracks finger movemen
 
 ---
 
----
-
 ## 🚀 Installation and Setup
 
 1. **Clone the repository**
